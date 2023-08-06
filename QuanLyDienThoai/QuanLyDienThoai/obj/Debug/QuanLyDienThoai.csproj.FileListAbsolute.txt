@@ -1,0 +1,160 @@
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\CuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\CuaHangDienThoai\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDN.resources
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+D:\BTL\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmLoai.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmManHinh.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDN.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSSPThang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanHieu.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmSanPham.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmKhachHang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhaCungCap.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanVien.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmQue.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDB.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDB.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDN.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSNVThang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDNQuy.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\QuanLyCuaHangDT\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDBNam.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDBNam.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSNVThang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSSPThang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmLoai.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmManHinh.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanHieu.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDNQuy.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmSanpham.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDB.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDN.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmKhachHang.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhaCungCap.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanVien.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmQue.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDB.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDN.resources
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+C:\Users\HP\OneDrive\Máy tính\cơ sở lập trình 2\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.ResolveComReference.cache
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDBNam.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSNVThang.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSSPThang.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmLoai.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmManHinh.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanHieu.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDNQuy.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmSanpham.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDB.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDN.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmKhachHang.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhaCungCap.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanVien.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmQue.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDB.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDN.resources
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+D:\Download\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai.mdf
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\DataBase\CuaHangDienThoai_log.ldf
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe.config
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.exe
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\bin\Debug\QuanLyDienThoai.pdb
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDBNam.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSNVThang.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSSPThang.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmLoai.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmManHinh.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanHieu.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmDSHDNQuy.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmMain.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmSanpham.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDB.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmHDN.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmKhachHang.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhaCungCap.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmNhanVien.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmQue.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDB.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.frmTimHDN.resources
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.exe
+C:\Users\ASUS\Desktop\Nhóm 5 - Lớp 02\QuanLyDienThoai\QuanLyDienThoai\obj\Debug\QuanLyDienThoai.pdb
